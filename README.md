@@ -30,9 +30,9 @@ Digital hustle, modern day slaves.
 
 [Verse 3]
 Six is triple down, double-oh-l,
-Seven stacks up, o-o-l, swell.
+Seven stacks up, l-l-l, swell.
 Eight a fresh start, one more bit,
-Nine o-o-l-o, making it lit.
+Nine l-o-o-l, making it lit.
 
 [Chorus]
 O and l, coding like a pro,
