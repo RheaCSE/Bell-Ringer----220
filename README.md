@@ -1,41 +1,16 @@
-# Bell-Ringer----220
+Bell-Ringer----220
 Binary Flipplin -- Binary Bangers
-
 
 Fix the lyrics First to get their pulled request wins!
 
-Verse]
-Countin' up digits, pushin' them switches
-One to the system, zeros in stitches
-Bits flip like acrobats, code never glitches
-Data stream flowin', uploadin' riches
+[Verse] Zeros and ones they dance in the night Flickering lights they shine so bright In the binary world it's all black and white Positive or negative ain't no fight
 
-[Verse 2]
-From decimal to binary, numbers turn legendary
-Machine language spoke since secondary
-Zeros and ones, make the tech contemporary
-Stackin' those digits, my hustle hereditary
+[Verse 2] Flip the bits and add a one Two's complement starts the fun Negative numbers aren't that dumb Just rearranged under the binary sun
 
-[Chorus]
-I I, double ones on the scene
-O O, zeros clean like a dream
-I O, binary code in the beam
-I I, digits high like a scheme
+[Chorus] Binary love flip the bits and go Negative feelings simply overflow From zero down to infinity In the end it’s all just ones and zeros
 
-[Verse 3]
-Digits don't sleep, keep the LEDs buzzin'
-Computin' beats, no need for discussin'
-Zeros and ones, data never bluffin'
-Conversion complete, got the numbers crushin'
+[Verse 3] If you see a leading one That’s how you know it's begun Negative numbers on the run Counting down till they’re done
 
-[Verse 4]
-RAM to the gig, binary wild
-CPU grindin', programs compiled
-Tech game's strong, circuits runnin' miles
-Zeros and ones, got the firmware dialed
+[Bridge] 32 bits in a row High to low they neatly flow From -2^31 to the infinity All compacted in this binary show
 
-[Chorus]
-I I, numbers shine on the screen
-O O, data flows like a stream
-I O, binary code in the team
-I I, digits rule the machine
+[Chorus] Binary love flip the bits and go Negative feelings simply overflow From zero down to infinity In the end it’s all just ones and zeros
